@@ -23,6 +23,8 @@
   <p></p>
   <a href = "https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank"></a>
  <!-- <a href = ""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
+  
+   ![Snake animation](https://github.com/Mariii-23/Mariii-23/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 <!--
